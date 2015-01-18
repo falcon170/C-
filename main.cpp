@@ -8,6 +8,8 @@
 
 #include <iostream>
 #include "stdafx.h"
+#include "Triangle.h"
+
 
 
 
